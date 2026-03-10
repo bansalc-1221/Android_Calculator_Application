@@ -64,4 +64,4 @@ The app also includes a **Splash Screen**, which enhances the user experience by
 
 ## Author
 
-**Deepika Sharma**
+**Chhavi Bansal**
